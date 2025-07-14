@@ -1,4 +1,4 @@
-'''words={"madad":"Help",
+words={"madad":"Help",
 "kursi":"chair",
 "billi":"cat"}
 word=input("Enter the word you want the meaning of:")
@@ -15,7 +15,7 @@ n=int(input("Enter a no."))
 w=input("Enter a string")
 q.add(n)
 q.add(w)
-print(q)'''
+print(q)
 
 s={}
 for i in range(4):
